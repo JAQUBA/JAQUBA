@@ -34,7 +34,3 @@ I'm currently diving deeper into:
 My hobby is electronics, particularly repairing electronic devices and creating my own projects. 🔧💡
 
 Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to say hi. 😊
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=JAQUBA)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAQUBA)](https://github.com/JAQUBA/github-readme-stats)
