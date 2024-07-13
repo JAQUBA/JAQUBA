@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm Karol, a trained electronics technician with a
 ## 📈 GitHub Stats
 
 ![Karol's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAQUBA&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JAQUBA&theme=radical&locale=pl&mode=weekly)](https://git.io/streak-stats)
 
 ## 📫 Get in Touch
 
